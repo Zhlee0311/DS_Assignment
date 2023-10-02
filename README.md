@@ -1,2 +1,2 @@
-# DS_Assignment
+# Data Structures_Assignment
 My assignment of Data Structures
